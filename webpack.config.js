@@ -1,8 +1,6 @@
-
-
 module.exports = {
   entry: './src/api.js',
-  target: 'node',
+  target: 'web',
   output: {
       path: __dirname,
       filename: './lib/index.js',
