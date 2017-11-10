@@ -1,5 +1,5 @@
 module.exports = {
-  entry: './src/api.js',
+  entry: './src/index.js',
   target: 'web',
   output: {
     path: __dirname,
